@@ -1,0 +1,14 @@
+{
+  "name": "wikipedia-vector-max-width-toggle",
+  "version": "0.1.0",
+  "description": "Makes it possible to use Wikipedia’s new Vector interface in full width, even when logged out.",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tacsipacsi",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.6.0"
+  }
+}

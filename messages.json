@@ -1,0 +1,22 @@
+{
+	"extensionName": {
+		"message": "Full-width new Vector",
+		"description": "Name of the extension."
+	},
+	"extensionDescription": {
+		"message": "Makes it possible to use Wikipedia’s new Vector interface in full width, even when logged out. Icon from https://commons.wikimedia.org/wiki/File:Font_Awesome_5_solid_window-maximize.svg",
+		"description": "Description of the extension."
+	},
+	"pageActionTooltip": {
+		"message": "Toggle full-width content",
+		"description": "Tooltip for the extension’s page action."
+	},
+	"settingsTitle": {
+		"message": "Full-width new Vector Settings",
+		"description": "Page title of the options UI."
+	},
+	"settingsDefaultOn": {
+		"message": "Enable full width by default",
+		"description": "Label of the options setting."
+	}
+}
